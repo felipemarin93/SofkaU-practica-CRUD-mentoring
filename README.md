@@ -19,6 +19,9 @@ Consulta de usuario por Correo
 Eliminacion por correo
 ![image](https://user-images.githubusercontent.com/51167724/173736769-2879695a-f77b-4d18-a260-58f6be3978ba.png)
 
+![image](https://user-images.githubusercontent.com/51167724/173736862-68c2ae68-dbb7-4f49-8dbc-a12a07d7bd13.png)
+
+
 Test unitarios
 ![image](https://user-images.githubusercontent.com/51167724/173736448-01824351-0fa3-4a4a-9f6e-88dbe6474a72.png)
 
